@@ -400,12 +400,12 @@
   display: flex;
 }
 
-.footer__column.footer__content_hours {
+.footer__column_content_hours {
   margin-left: auto;
   margin-right: 100px;
 }
 
-.footer__column.footer__content_social {
+.footer__column_content_social {
   margin-right: 102px;
 }
 
